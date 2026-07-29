@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 import pytz
 
-TOKEN = "8912929129:AAGjUK8TCZ9q9w0z2Vj6U4OEFbqKAgXA7w4"
+TOKEN = "8912929129:AAGQ4UVoehABkBsje2rl-i0_HtKfame3kQQ"
 ADMIN_ID = 8493369954
 
 
