@@ -3156,7 +3156,7 @@ def add_product(message):
   		  "name": name,
 
 		    "price": int(price),
-            "photo": "AgACAgIAAxkBAAIblWppzEj2mU2MhaEUdxxcRT69MaQAA9sXaxv6qFFLG-JP4cFKI-gBAAMCAAN5AAM9BA"
+            "photo": "AgACAgIAAxkBAAIblmppzGwGn1A1BkNQLlahSv_HgrRjAALcF2sb-qhRS84QwWWhfpsFAQADAgADeQADPQQ"
 		    
 
 })
